@@ -22,7 +22,7 @@ const ContactMap: React.FC = () => {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Bluestone IT Tech LLC - Maple Valley, Washington"
+                title="Bluestone IT Tech LLC - Houston, TX USA"
               ></iframe>
             </div>
           </Col>
