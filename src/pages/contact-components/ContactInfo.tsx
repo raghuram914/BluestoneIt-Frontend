@@ -11,7 +11,7 @@ const ContactInfo: React.FC = () => {
         We're here to help you succeed.
       </p>
 
-      <div className="contact-info-item mb-4">
+      {/* <div className="contact-info-item mb-4">
         <div className="contact-icon">
           <FaMapMarkerAlt />
         </div>
@@ -19,7 +19,7 @@ const ContactInfo: React.FC = () => {
           <h6>Headquarters</h6>
           <p>29010 239th Ave SE<br />Maple Valley, Washington 98010<br />United States</p>
         </div>
-      </div>
+      </div> */}
 
       <div className="contact-info-item mb-4">
         <div className="contact-icon">

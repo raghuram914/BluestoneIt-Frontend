@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import ContactHeader from './contact-components/ContactHeader';
 import ContactInfo from './contact-components/ContactInfo';
 import ContactForm from './contact-components/ContactForm';
-import ContactMap from './contact-components/ContactMap';
+// import ContactMap from './contact-components/ContactMap';
 import ContactCTA from './contact-components/ContactCTA';
 
 const Contact: React.FC = () => {
@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
         </Container>
       </section>
 
-      <ContactMap />
+      {/* <ContactMap /> */}
       <ContactCTA />
     </>
   );

@@ -50,7 +50,7 @@ export const metadataConfig: Record<string, MetaTags> = {
     },
     '/contact': {
         title: 'Contact Us | Bluestone IT Tech LLC',
-        description: 'Get in touch with Bluestone IT Tech LLC. Contact us for IT consulting, staffing solutions, and technology services. Located in Maple Valley, Washington.',
+        description: 'Get in touch with Bluestone IT Tech LLC. Contact us for IT consulting, staffing solutions, and technology services. Located in Visakhapatnam, AP, India and serving clients across the USA.',
         keywords: 'contact IT company, IT consulting contact, technology services contact, Bluestone IT contact'
     },
     '/privacy-policy': {

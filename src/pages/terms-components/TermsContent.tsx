@@ -228,10 +228,10 @@ const TermsContent: React.FC = () => {
                     </p>
                     <div className="contact-info mt-3">
                       <p><strong>Bluestone IT</strong></p>
-                      <p className="d-flex align-items-start mb-1">
+                      {/* <p className="d-flex align-items-start mb-1">
                         <FaMapMarkerAlt className="me-2 mt-1" />
                         <span>29010 239th Ave SE, Maple Valley, WA 98010, USA</span>
-                      </p>
+                      </p> */}
                       <p className="d-flex align-items-start mb-3">
                         <FaMapMarkerAlt className="me-2 mt-1" />
                         <span>Visakhapatnam, AP, India</span>

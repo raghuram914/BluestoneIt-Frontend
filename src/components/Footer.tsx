@@ -50,10 +50,10 @@ const Footer: React.FC = () => {
           <Col lg={3} md={6} className="mb-4">
             <h6 className="text-white mb-3">Contact Info</h6>
             <div className="contact-info">
-              <div className="contact-item mb-2">
+              {/* <div className="contact-item mb-2">
                 <FaMapMarkerAlt className="me-2" />
                 <span>29010 239th Ave SE, Maple Valley, WA 98010, USA</span>
-              </div>
+              </div> */}
               <div className="contact-item mb-2">
                 <FaMapMarkerAlt className="me-2" />
                 <span>Visakhapatnam, AP, India</span>
